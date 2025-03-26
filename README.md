@@ -1,1 +1,1 @@
-# github-action-test
+#  A very simple GitHub action to test ambiguous references
